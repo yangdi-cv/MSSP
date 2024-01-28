@@ -2,6 +2,6 @@
 
 <img src="https://github.com/yangdi-cv/MSSP/blob/main/img/mssp.png?raw=true" height="330"/>
 
-## Download
+## Dataset
 
-Link: https://drive.google.com/drive/folders/1xPar0VwE2Ma3qw422hoLfmpINIlOzZzz?usp=sharing
+Download (after publish): [Link](https://drive.google.com/drive/folders/1xPar0VwE2Ma3qw422hoLfmpINIlOzZzz?usp=sharing)
