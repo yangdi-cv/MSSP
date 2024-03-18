@@ -9,7 +9,7 @@
 |:-------------:| ----- |:-------:|:-------:|:----------:|
 |  MSSP | [IJCNN2024]() | 4 | 2,044 | [Google Drive](https://drive.google.com/drive/folders/1xPar0VwE2Ma3qw422hoLfmpINIlOzZzz?usp=sharing) | 
 
-## Citations
+## Citation
 ```
 @inproceedings{mssp,
     title={MSSP: A Multi-view Benchmark for Street Scene Perception in Assistive Navigation},
