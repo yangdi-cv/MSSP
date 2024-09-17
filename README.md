@@ -17,6 +17,7 @@ By Y. Di, S. L. Phung, and A. Bouzerdoum.
     title={MSSP: A Multi-view Benchmark for Street Scene Perception in Assistive Navigation},
     author={Yang Di, Son Lam Phung, and Abdesselam Bouzerdoum},
     booktitle={International Joint Conference on Neural Networks (IJCNN)},
+    pages={1-8},
     year={2024}
 }
 ```
